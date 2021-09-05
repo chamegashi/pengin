@@ -1,0 +1,13 @@
+通信で必要な情報
+- players
+　- name
+  - hand
+  - visible
+  - point
+- field_cards
+
+場に必要な情報
+- 何回目か
+- 
+
+
